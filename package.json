@@ -1,0 +1,19 @@
+{
+  "name": "WhaleVillage-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OS-2021/WhaleVillage-file.git",
+  "author": "titanv <a01098930999@gmail.com>",
+  "license": "MIT"
+  ,
+  "scripts": {
+    "start": "node src/index.js",
+    "start:dev": "nodemon --exec node src/index.js"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
